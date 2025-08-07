@@ -42,7 +42,7 @@ bun install
 
 ```
 
-## 项目结构
+### 项目结构
 
 nuxt-todo-app/
 ├── assets/              # 静态资源
