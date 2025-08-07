@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 添加一些额外的全局样式 */
+body {
+  @apply bg-gray-100;
+}
+
+/* 可以在这里添加自定义的 CSS 类 */
