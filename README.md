@@ -44,17 +44,17 @@ bun install
 
 ## 项目结构
 
-nuxt-todo-app/
-├── assets/              # 静态资源
-├── composables/         # 可组合函数
-├── layouts/             # 布局组件
-├── middleware/          # 路由中间件
-├── pages/               # 页面组件
-├── public/              # 静态文件
-├── server/              # 服务端 API
-│   ├── api/             # API 路由
-│   └── database.js      # 数据库访问层
-└── ...
+- nuxt-todo-app/
+- ├── assets/              # 静态资源
+- ├── composables/         # 可组合函数
+- ├── layouts/             # 布局组件
+- ├── middleware/          # 路由中间件
+- ├── pages/               # 页面组件
+- ├── public/              # 静态文件
+- ├── server/              # 服务端 API
+- │   ├── api/             # API 路由
+- │   └── database.js      # 数据库访问层
+- └── ...
 
 ## 数据库
 
